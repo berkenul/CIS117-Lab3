@@ -2,8 +2,13 @@
 # Reads country_full.csv and writes a CSV file for each region.
 # Alex Sett and Berk Enul
 # Group: 1
+# Date: 11/9/2026
 # Alex worked on reading and grouping the data.
 # Berk worked on writing the output files.
+# Collaboration: We communicated through Pronto to plan the program
+# and split the work into reading and writing parts. We shared our
+# code with each other on Pronto, combined the two functions into
+# one script, and tested it together.
 
 import csv
 import os
